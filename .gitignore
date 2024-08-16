@@ -3,4 +3,8 @@ anime/build/.vs
 anime/build/bin
 anime/build/obj
 
+lego_catalog/build_lego_catalog/.vs
+lego_catalog/build_lego_catalog/bin
+lego_catalog/build_lego_catalog/obj
+
 .vs
